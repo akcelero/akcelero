@@ -1,3 +1,4 @@
+# 🔥 Always Coding. Always Learning.
 👨‍💻 Backend engineer | 7+ years experience\
 🐍 Python (Django, FastAPI, Flask)\
 ☁️ AWS (ECS, S3, CloudWatch, KMS)\
