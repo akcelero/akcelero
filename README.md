@@ -1,16 +1,16 @@
-## Hi there 👋
+👨‍💻 Backend engineer | 7+ years experience\
+🐍 Python (Django, FastAPI, Flask)\
+☁️ AWS (ECS, S3, CloudWatch, KMS)\
+🐳 Docker | ☸️ Kubernetes | ⚙️ Terraform\
+🗄️ PostgreSQL | 🧠 Redis\
+⛓️ Solidity | 🪙 Blockchain/Ethereum
 
-<!--
-**akcelero/akcelero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔧 Refactoring & scaling legacy systems\
+🧩 Microservices & API design\
+🔗 Blockchain integrations\
+🚀 CI/CD automation (GitHub Actions, Jenkins, ArgoCD)\
+⚡ Performance optimization & monitoring\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌏 Open to backend, cloud & blockchain projects!\
+🤝 Let’s collaborate!
