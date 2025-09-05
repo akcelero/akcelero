@@ -10,9 +10,9 @@
 🧩 Microservices & API design\
 🔗 Blockchain integrations\
 🚀 CI/CD automation (GitHub Actions, Jenkins, ArgoCD)\
-⚡ Performance optimization & monitoring\
+⚡ Performance optimization & monitoring
 
-⌨️ Glove80\
+⌨️ Glove80
 
 🌏 Open to backend, cloud & blockchain projects!\
 🤝 Let’s collaborate!
